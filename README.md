@@ -10,9 +10,9 @@ Resident Evil Speedrunner
 
 ### Currently Working On
 
-- Cartesia Red — GUI framework and rendering systems
-- Perfect Immortal Machine — game development project
-- Resident Evil speedrun routing and optimisation
+- Cartesia Red — GUI Application
+- Perfect Immortal Machine — Game
+- Resident Evil 2 Speedrunning
 
 ---
 
