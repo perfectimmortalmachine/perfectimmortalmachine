@@ -1,4 +1,7 @@
-<h1 align="center">Taiyo Moriguchi 森口太陽</h1>
+<h1 align="center">Taiyo Moriguchi</h1>
+<p align="center">
+  森口太陽
+</p>
 
 <p align="center">
   Graphics Programmer · Orthopaedic Engineer · Resident Evil Speedrunner
