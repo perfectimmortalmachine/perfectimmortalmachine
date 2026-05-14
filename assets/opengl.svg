@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 80">
+  <!-- White shield/badge -->
+  <rect x="0" y="10" width="60" height="60" rx="4" fill="#5586A4"/>
+  <text x="30" y="52" text-anchor="middle" font-size="28" font-weight="700" fill="white" font-family="Arial">GL</text>
+
+  <!-- OpenGL wordmark -->
+  <text x="75" y="50" font-size="32" font-weight="700" fill="#5586A4" font-family="Arial">OpenGL</text>
+</svg>
