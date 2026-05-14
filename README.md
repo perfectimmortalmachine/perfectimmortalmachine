@@ -17,9 +17,9 @@
 ### Languages and APIs
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL"/>
+  <img src="https://commons.wikimedia.org/wiki/File:Microsoft-DirectX-11-Logo-wordmark.svg"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/DirectX_11-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="DirectX 11"/>
+  <img src="https://commons.wikimedia.org/wiki/File:Opengl-logo.svg"/>
   &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" alt="C++"/>
 </p>
