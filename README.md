@@ -1,4 +1,4 @@
-<h1 align="center">Taiyo Moriguchi</h1>
+<h1 align="center">Taiyo Moriguchi 森口太陽</h1>
 
 <h3 align="center">
 Graphics Programmer using OpenGL and DirectX 11/12<br>
