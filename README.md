@@ -6,7 +6,7 @@
 
 ---
 
-### Currently Working On
+### 🔧 Currently Working On
 
 - **Cartesia Red** — GUI Application
 - **Perfect Immortal Machine** — Game
@@ -14,12 +14,12 @@
 
 ---
 
-### Languages and APIs
+### 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src=".assets/File_Microsoft-DirectX-11-Logo-wordmark.svg" height="40" alt="DirectX 11"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft-DirectX-11-Logo-wordmark.svg" height="40" alt="DirectX 11"/>
   &nbsp;&nbsp;
-  <img src=".assets/File_Opengl-logo.svg" height="40" alt="OpenGL"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/OpenGL-Logo.svg" height="40" alt="OpenGL"/>
   &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" alt="C++"/>
 </p>
