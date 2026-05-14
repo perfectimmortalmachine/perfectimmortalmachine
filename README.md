@@ -17,9 +17,9 @@
 ### Languages and APIs
 
 <p align="center">
-  <img src="./assets/directx11.svg" height="40" alt="DirectX 11"/>
+  <img src=".assets/File_Microsoft-DirectX-11-Logo-wordmark.svg" height="40" alt="DirectX 11"/>
   &nbsp;&nbsp;
-  <img src="./assets/opengl.svg" height="40" alt="OpenGL"/>
+  <img src=".assets/File_Opengl-logo.svg" height="40" alt="OpenGL"/>
   &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40" alt="C++"/>
 </p>
