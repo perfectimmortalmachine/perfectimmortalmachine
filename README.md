@@ -18,18 +18,18 @@ Resident Evil Speedrunner
 
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/OpenGL-Logo.svg" width="900"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/OpenGL-Logo.svg" width="100"/>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/stla/opengl-HopfTorus/master/snapshot.png" width="900"/>
+<img src="https://raw.githubusercontent.com/stla/opengl-HopfTorus/master/snapshot.png" width="100"/>
 
 <br><br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft-DirectX-11-Logo-wordmark.svg" width="900"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft-DirectX-11-Logo-wordmark.svg" width="100"/>
 
 <br><br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="900"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="100"/>
 
 </div>
