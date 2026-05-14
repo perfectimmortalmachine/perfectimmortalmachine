@@ -6,7 +6,7 @@
 
 ---
 
-### 🔧 Currently Working On
+### Currently Working On
 
 - **Cartesia Red** — GUI Application
 - **Perfect Immortal Machine** — Game
@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ Tools & Technologies
+### Languages and Tools
 
 <p align="center">
   <img src="./assets/opengl.svg" height="40" alt="DirectX 11"/>
