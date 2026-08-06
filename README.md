@@ -1,4 +1,4 @@
-<h1 align="center">Taiyo Moriguchi</h1>
+<h1 align="center">Taiyo Leon Moriguchi</h1>
 <p align="center">
   森口太陽
 </p>
