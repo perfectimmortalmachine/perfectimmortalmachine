@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  Graphics Programmer · Orthopaedic Engineer · Resident Evil Speedrunner
+  Graphics Programmer · Orthopaedic Engineer · Game Speedrunner
 </p>
 
 ---
@@ -13,7 +13,7 @@
 
 - **Cartesia Red** — GUI Application
 - **Perfect Immortal Machine** — Game
-- **Resident Evil 2** Speedrunning
+- **Resident Evil** Twitch Streaming and Speedrunning
 
 ---
 
