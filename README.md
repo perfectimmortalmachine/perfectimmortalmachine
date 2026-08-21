@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  Graphics Programmer · Orthopaedic Engineer · Game Speedrunner
+  Graphics Programmer · Medical Technology · Game Speedrunner
 </p>
 
 ---
