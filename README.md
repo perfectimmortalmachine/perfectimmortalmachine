@@ -16,9 +16,6 @@
 - **Resident Evil** - Twitch Streaming and Speedrunning
 
 ---
-
-### Languages and Tools
-
 ### Languages and Tools
 
 <p align="center">
@@ -42,16 +39,11 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vulkan/vulkan-original.svg" height="40" alt="Vulkan"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vulkan/vulkan-original.svg" height="50" alt="Vulkan"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40" alt="OpenGL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="50" alt="OpenGL"/>
   &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Microsoft-DirectX-11-Logo-wordmark.svg" height="40" alt="DirectX 11"/>
   &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft-DirectX-Logo-wordmark.svg" height="40" alt="DirectX"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Phaser-8C1AFF?style=for-the-badge" alt="Phaser"/>
-  <img src="https://img.shields.io/badge/Dear%20ImGui-1F1F1F?style=for-the-badge" alt="Dear ImGui"/>
 </p>
