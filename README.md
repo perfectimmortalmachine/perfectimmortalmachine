@@ -13,7 +13,7 @@
 
 - **Cartesia Red** — GUI Application
 - **Perfect Immortal Machine** — Game
-- **Resident Evil** Twitch Streaming and Speedrunning
+- **Resident Evil** - Twitch Streaming and Speedrunning
 
 ---
 
